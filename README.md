@@ -1,6 +1,5 @@
 
-## Jupyter notebook file to reproduce regression model predicting hydrolysis rates of  
-Bile Salts by BSH from Lactobacillus salivarius based on vdw/electrostatic interactions with protein
+## Jupyter notebook file to reproduce regression model predicting hydrolysis rates of \nBile Salts by BSH from Lactobacillus salivarius based on vdw/electrostatic interactions with protein
 
 ### Required packages:
 - numpy 1.19.5
